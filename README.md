@@ -1,8 +1,8 @@
 #IPL 2008 - 2020 Dashboard using MS Excel  
-##Overview
+##Overview  
 This project is a dashboard created using Microsoft Excel to visualize and analyze data from the Indian Premier League (IPL) seasons spanning from 2008 to 2020. The dataset used for this project is sourced from Kaggle.
 
-##Features
+##Features  
 Provides interactive visualizations of IPL match data.  
 Allows users to explore various statistics and trends over the years.  
 Offers insights into team performance, player performance, and match outcomes.  
