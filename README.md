@@ -25,8 +25,10 @@ To use the dashboard:
 
 ##Future Improvements
 Incorporate additional statistical analysis and predictive modeling.
-Enhance the dashboard with more interactive features and user customization options.
-##Contributors
-Your Name: Nayana H Babu
-##License
+Enhance the dashboard with more interactive features and user customization options.  
+
+##Contributors  
+Nayana H Babu  
+
+##License  
 This project is licensed under the MIT License.
