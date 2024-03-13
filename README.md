@@ -16,14 +16,13 @@ The dataset used for this project is available on Kaggle: [IPL Match Dataset](ht
 3. GitHub: Used for version control and project sharing.  
 
 ##Usage
-To use the dashboard:
-
+To use the dashboard:  
 1. Download the Excel file from the GitHub repository.
 2. Open the file in Microsoft Excel.
 3. Navigate through the different sheets and tabs to explore the visualizations and data analysis.
 4. Interact with the filters and slicers to customize the view according to your preferences.
 
-##Future Improvements
+##Future Improvements  
 Incorporate additional statistical analysis and predictive modeling.
 Enhance the dashboard with more interactive features and user customization options.  
 
